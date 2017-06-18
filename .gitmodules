@@ -1,0 +1,3 @@
+[submodule "Game-Framework"]
+	path = Game-Framework
+	url = https://github.com/GavWood/Game-Framework
